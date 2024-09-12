@@ -2,7 +2,7 @@
 Happybird is a simple 2D game built with JavaScript and Kaboom.js. The objective of the game is to control a bird and navigate it through obstacles by pressing the spacebar to make the bird jump. It's a fun and addictive game with straightforward mechanics!
 
 # Screenshot
-![Happybird Screenshot](https://github.com/siddz415/happybird/blob/main/screenshots/screenshot1.png)
+![Happybird Screenshot](screenshots/screenshot1.png)
 
 # Features
 2D side-scrolling game
